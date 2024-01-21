@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+:root{
+    --blue: #2A324B;
+    --lightBlue: #58699D;
+    --WhiteBlue: #E1E5EE;
+    --White: #fff;
+
+    --font: 'Montserrat', sans-serif;
+    --rootsize: 20px;
+    --maxsize: 1200px
+
+}
+
+body {
+ background-color: var(--WhiteBlue);
+ font-family: var(--font);
+ font-size: var(--rootsize);
+}
+
+p{ font-size: 1rem; font-weight: 300;}
+h1{ font-size: 1.5rem; font-weight: 700;}
+
+
+#container{
+    width: 100%;
+    background-color: var(--White);
+    min-height: 450px;
+    margin: 0 auto;
+    max-width: var(--maxsize);
+    margin-top: 150px;
+
+}
+
+
+
+
+nav{
+    background-color: var(--WhiteBlue);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-left: 0;    
+    gap: 16.05px;
+    
+}
+
+
+nav a{
+    background-color: var(--blue);
+    color: var(--White);
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 60.6px;
+    padding-right: 60.6px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: var(--font);
+    font-size: var(--rootsize);
+    font-weight: 700;
+    box-sizing: border-box;
+
+}
+
+nav a:hover{
+    background-color: var(--White);
+    color: var(--blue);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-around;
+    margin: 0;
+    font-family: var(--font);
+    font-size: var(--rootsize);
+    color: var(--blue);
+}
+main h1{
+    font-weight: 700;
+    font-family: var(--font);
+    font-size: 1.8rem;
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 0;
+}
+
+main p {
+    font-weight: 400;
+    font-family: var(--font);
+    font-size: 1.2rem;
+    color: var(--blue);
+    padding-left: 80px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+
+main li{
+    font-family: var(--font);
+    color: var(--blue);
+}
+
+main ul{
+    padding-left: 130px;
+    padding-top: 10px;
+    margin: 0;
+    
+}
+
+main a{
+    font-family: var(--font);
+    font-weight: 400;
+    color: var(--lightBlue);
+}
+
+
+
+
+
+
+
+
