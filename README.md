@@ -1,7 +1,8 @@
 #UIN Arbeidskrav2 MULLER
+
 Arbeidskrav 2, CSS styling, joine sammen ressurser.js med HTML.
 
-##Fredag 19 Januar 2024. 
+##Fredag 19 Januar 2024
 - startet med noen justeringer på CSS delen
 
 Her la jeg til hoved formen til utseende med farge og satt opp root som skulle gjøre det enklere å "referere" til font, font-family, color osv. 
