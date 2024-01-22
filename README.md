@@ -1,4 +1,4 @@
-#UIN_Arbeidskrav2_MULLER
+#UIN Arbeidskrav2 MULLER
 Arbeidskrav 2, CSS styling, joine sammen ressurser.js med HTML.
 
 ##Fredag 19 Januar 2024. 
