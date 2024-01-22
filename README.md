@@ -11,6 +11,9 @@ Her la jeg til hoved formen til utseende med farge og satt opp root som skulle g
 - Fokus på javascript
 
   Begynte å se over javascript vi hadde i timen samt med tidligere arbeid. Kom fram til at beste metoden å gå fram på var ved bruk av .map og .filter som ble brukt i timene. Hadde da laget en ny js fil som skulle fungere med ressurser.js. Den nye js filen skulle hente ut informasjon fra resources og de forskjellige "temaene" altså da catrgoy, title og sources. Denne infoen ble lagt inn i en .filter som da skulle filterere info mens.map skulle oppdateres når en bruker byttet side.
+  .join brukte jeg fordi det hjelper med å sette sammen strings, med å da ta inn den nye infoen og sette det sammen til en setning. Dette er kode jeg har brukt i tidligere undervisning fra "innføring i programmering".
 
 ##Søndag 21 Januar 2024
-- 
+- Fokus på CSS
+
+  Her justerte jeg ferdig CSS, altså nav og plassering/utforming av tekst. 
